@@ -61,5 +61,25 @@ Markdown,文本修饰语言，用特殊符号修饰正文效果<br>
 
 
 
+###  代码片段
 
+```c
+	#include<stdio.h>
+	int mian(){
+		printf("test code\n");
+		return 0;
+	}
+```
+```cpp
+	#include<iostream>
+```
+```python
+	import <os>
+```
+```bash
+	echo "测试"
+	pwd
+	ps aux
+	ls -l
+```
 
